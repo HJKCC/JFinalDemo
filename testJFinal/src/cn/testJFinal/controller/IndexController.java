@@ -12,6 +12,6 @@ public class IndexController extends Controller {
 		String sayHello = "Hello " + userName + "��welcome to JFinal world.";
 		this.setAttr("sayHello", sayHello);
 		this.render("/hello.jsp");
-		System.out.println("test");
+		System.out.println("操作成功！");
 	}
 }
