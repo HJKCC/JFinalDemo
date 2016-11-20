@@ -7,7 +7,7 @@
 <title>index</title>
 </head>
 <body>
-	<form action="${basePath}/sayHello" method="post">
+	<form action="${basePath}/testJFinal" method="post">
 		请输入您的名字：<input type="text" name="userName" />
 		<input type="submit" value="确定" />
 	</form>

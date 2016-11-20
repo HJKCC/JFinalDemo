@@ -7,7 +7,7 @@
 <title>JFinalDemo</title>
 </head>
 <body>
-	<p>${sayHello}</p>
+	<p>${helloUser}</p>
 	<p>
 		<a href="${basePath}/"></a>
 	</p>

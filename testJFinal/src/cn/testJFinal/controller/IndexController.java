@@ -7,11 +7,11 @@ public class IndexController extends Controller {
 		this.render("/index.jsp");
 	}
 
-	public void sayHello() {
+	public void testJFinal() {
 		String userName = this.getPara("userName");
-		String sayHello = "Hello " + userName;
-		this.setAttr("sayHello", sayHello);
+		String helloUser = "Hello " + userName;
+		this.setAttr("helloUser", helloUser);
 		this.render("/hello.jsp");
-		System.out.println("我的JFinalDemo！");
+		System.out.println("JFinalDemo！");
 	}
 }
