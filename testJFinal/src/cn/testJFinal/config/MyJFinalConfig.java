@@ -1,7 +1,6 @@
 package cn.testJFinal.config;
 
 import cn.testJFinal.controller.IndexController;
-
 import com.jfinal.config.Constants;
 import com.jfinal.config.Handlers;
 import com.jfinal.config.Interceptors;
