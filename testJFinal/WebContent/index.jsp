@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="${basePath}/testJFinal" method="post">
-		请输入您的名字：<input type="text" name="userName" />
+		请输入用户名：<input type="text" name="userName" />
 		<input type="submit" value="确定" />
 	</form>
 </body>
