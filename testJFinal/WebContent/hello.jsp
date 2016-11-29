@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>JFinalDemo</title>
+<title>Hello JFinal</title>
 </head>
 <body>
 	<p>${helloUser}</p>
