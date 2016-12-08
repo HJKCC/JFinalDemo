@@ -9,7 +9,7 @@ public class IndexController extends Controller {
 
 	public void sayHello() {
 		String userName = this.getPara("userName");
-		String sayHello = "Hello " + userName + "��welcome to JFinal world.";
+		String sayHello = "Hello " + userName + "welcome to JFinal world.";
 		this.setAttr("sayHello", sayHello);
 		this.render("/hello.jsp");
 		System.out.println("test");

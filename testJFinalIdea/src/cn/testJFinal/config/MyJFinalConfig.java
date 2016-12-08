@@ -28,14 +28,10 @@ public class MyJFinalConfig extends JFinalConfig {
 
 	@Override
 	public void configInterceptor(Interceptors arg0) {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
 	public void configPlugin(Plugins arg0) {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
